@@ -1,6 +1,5 @@
-# Madlab23
-All Lab exercises of Mobile Application Development Lab 23 
-# Mobile App Development Lab - Semester 4
+
+# Mobile App Development Lab - Semester 4 2023
 
 This repository contains all the lab exercises for the Mobile App Development Lab in the 4th semester. Each lab exercise is associated with a specific lecture and covers various topics related to mobile app development.
 
